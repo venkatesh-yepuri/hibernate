@@ -38,6 +38,9 @@
 						href="#">Archives</a> <span class="text-separator">|</span> <strong><a
 						href="#">Join Us!</a></strong> <span class="text-separator">|</span> <a
 						href="#top" class="quiet">Page Top &uarr;</a>
+						<h1>hello</h1>
+						<h1>hello</h1>
+						
 				</p>
 
 			</div>
